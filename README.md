@@ -1,6 +1,6 @@
 # 2016-12-1
 # RSdetector_v.0.2.pl is used to extract RS domain containing proteins from species proteome
-# Note: dipeptide region is defined according to the definition of RS domain in plants 
+# Note: RS dipeptide region is defined according to the definition of RS domain in plants 
 
 ###########################################################################################
 #The required parameters:
